@@ -1,2 +1,2 @@
-# DEPI-
+# DEPI
 DEPI Initiative Final Project
